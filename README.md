@@ -52,4 +52,4 @@ This code uses the following libraries:
 !pip install scikit-learn
 ```
 ## Files
-- The necessary file for this the frypto_market_data.xlsx found in /Resources
+- The necessary file for this the frypto_market_data.csv found in /Resources
